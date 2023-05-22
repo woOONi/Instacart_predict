@@ -2,7 +2,6 @@
 ### 1. 프로젝트 개요
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2ca48dc7-fdcc-49ab-8b7a-71dd4e42d021/Untitled.png)
-
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b4c1cf00-3285-405b-a1be-7210a7cfa3bd/Untitled.png)
 
 1-1. 주제
